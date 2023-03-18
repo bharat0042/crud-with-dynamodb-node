@@ -1,0 +1,7 @@
+{
+  "name": "crud-with-dynamodb-sdk",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.293.0"
+  }
+}
